@@ -1,0 +1,14 @@
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\bin\Debug\net6.0\JoystonLastLab.exe
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\bin\Debug\net6.0\JoystonLastLab.deps.json
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\bin\Debug\net6.0\JoystonLastLab.runtimeconfig.json
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\bin\Debug\net6.0\JoystonLastLab.dll
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\bin\Debug\net6.0\JoystonLastLab.pdb
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.AssemblyInfoInputs.cache
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.AssemblyInfo.cs
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.csproj.CoreCompileInputs.cache
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.dll
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\refint\JoystonLastLab.dll
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.pdb
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\JoystonLastLab.genruntimeconfig.cache
+C:\Users\joy20\source\repos\Last\JoystonLastLab\JoystonLastLab\obj\Debug\net6.0\ref\JoystonLastLab.dll
